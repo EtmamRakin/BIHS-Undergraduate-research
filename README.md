@@ -1,0 +1,6 @@
+***Analyzing factors effecting seasonal rice variety choices of farmers in Bangladesh***
+---
+
+**Abstract**
+---
+Bangladesh, with its high population density and reliance on agriculture, faces significant challenges in ensuring food security. Despite development of many high-yielding and hybrid rice varieties, many farmers remain hesitant to adopt these innovations. This study investigates the socio-economic, agronomic, and technological factors influencing farmers' seasonal decisions (Aman and Boro) to adopt different rice varieties in Bangladesh. Utilizing the multivariate probit model, the research examines the interconnected factors affecting adoption decisions, such as household head age and gender, household size, farm size, land ownership, household labor availability, farmers past experience, machinery asset value. The findings reveal that labor availability, prior cultivation experience, information access are critical determinants in rice variety adoption. The study underscores the need for tailored agricultural interventions and comprehensive information dissemination to enhance the adoption of high-yielding and hybrid rice varieties, addressing regional and household-specific contexts.
